@@ -1,0 +1,6 @@
+{
+  "name": "Gerador de Questões.1.2",
+  "description": "Uma aplicação web para gerar questões de múltipla escolha sobre qualquer tópico usando IA, permitindo que os usuários testem seus conhecimentos de forma interativa.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
